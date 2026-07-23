@@ -85,4 +85,4 @@ npm run test      # Tests
 npm run build
 ```
 
-Hosteado en Vercel: _pendiente — importa el repositorio en https://vercel.com/new_
+Hosteado en Vercel: https://verdict-git-main-veves115s-projects.vercel.app
